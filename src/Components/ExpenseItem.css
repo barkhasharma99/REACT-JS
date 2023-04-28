@@ -1,3 +1,30 @@
 .main{
 border: 2px solid red;
+width: 400px;
+height: 100px;
+
+background-color: aquamarine;
+display: flex ;
+}
+.mymaindiv{
+margin-left:450px  ;
+/* transform: translate(-50% , -50%); */
+/* position: absolute;  */
+}
+
+.month{
+    border: 2px solid red;
+    width: 200px;
+    background-color: beige;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    height: 40px;
+    display: flex;
+}
+.title{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    height: 40px;
+    width: 100px;
+    background-color: cadetblue;
 }
